@@ -6,20 +6,28 @@ Gun topics always are the trend to investigate or explore. Gun is a dangerous su
 -The first question in this project is which state had the highest overall gun registration/Permit. 
 -the second question is which types of gun is more popular.
 
-## Prerequisites
+## Tools
 
 ```
 Anaconda
 Package such as Numpy, Pandas, and matplotlib.pyplot
 ```
+## Analysis Step
 
+### Importing package
+-Importing the necessary package such as Numpy, Pandas, and matplotlib.pyplot
+
+### Observe the data
+-Utilized function such as head(), info(), and isnan() to observe the incorrect or the messy data. 
 
 ### Clean the data
-First, I find the duplicate row and remove them. Then, use a loop to calculate the average permit for each state and replace the Nan value with the average.
+-First, find the duplicate row and remove them. 
+-Second, use a loop to calculate the average permit for each state 
+-Third,Replace the Nan value with the average value for each state.
 
 ### Visual
 
-I create a bar graph for both question to provide more visual/clearly view of the solution.
+-Utilized bar graph to provide visual solution of the tasks
 
 
 ## Authors
