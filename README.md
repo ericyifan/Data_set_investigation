@@ -32,7 +32,7 @@ Package such as Numpy, Pandas, and matplotlib.pyplot
 
 ## Authors
 
-* **Yifan Yang** - *Initial work* - [PurpleBooth](https://github.com/ericyifan)
+* **Yifan Yang** - *Initial work* - [ericyifan](https://github.com/ericyifan)
 
 
 
